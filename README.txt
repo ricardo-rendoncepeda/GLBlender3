@@ -1,6 +1,6 @@
 README
 
-GLBlender3 Version 1.1 (27 November 2013)
+GLBlender3 Version 1.2 (04 December 2013)
 Created by Ricardo Rendon Cepeda
 <http://www.rendoncepeda.com/>
 
@@ -21,6 +21,11 @@ The full project includes:
 
 
 VERSION HISTORY
+
+Version 1.2
+---------------
+- Project upgraded to iOS 7.
+- Added image asset catalogs.
 
 Version 1.1
 ---------------
